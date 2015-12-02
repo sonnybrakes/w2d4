@@ -23,7 +23,7 @@
 |             | 
 |             | 
 
-![query string is a key value pair stored in a hash](http://_the_query_string_made_up_of_a_key_value_pair.png)
+![query string is a key value pair stored in a hash](img src="_the_query_string_made_up_of_a_key_value_pair.png)
 
 
 | Left-Aligned  | Center Aligned  | Right Aligned |
