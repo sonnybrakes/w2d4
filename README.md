@@ -1,14 +1,30 @@
 # Creating Forms
 
-<form>tags</form>  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+| tag | form     | attributes  | block level element
+| :--------------|:-----------:|--------------- |
+| a wrapper used | action      | "/url"   
+| to gather user | method      | "post"   | 
+| input and save | id          | 
+| to a database  | class       | css 
 
-| Tag | <form>          |
-| ------------- | ----------- |
-| Help      | Display the help window.|
-| Close     | Closes a window     |
+| tag | input | attributes  |
+| :-----------|:------------|:---------------
+|             | type        | text, date, time, email, tel, number, search 
+|             | id          | see for tag
+|             | name        | key value sent to server
+|             | placeholder | 
+|             | value       | sets a value that can be overwritten
+
+| tag | label | attributes  |
+| :-----------|:------------|:---------------
+|             | for         | set to input id 
+|             |             | 
+|             | 
+|             | 
+|             | 
+
+![query string is a key value pair stored in a hash](http://_the_query_string_made_up_of_a_key_value_pair.png)
+
 
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
